@@ -1,0 +1,12 @@
+Consider the following code:
+
+x = 19.93
+y = 20.00
+z = y – x
+print(z)
+
+The output is 0.0700000000028 Why ? <- because the computer calculate exactly
+
+Improve the code so that the output is to two decimal places. 
+
+round(z,2) or print(“%.2f”%z)
