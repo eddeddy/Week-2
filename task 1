@@ -1,0 +1,9 @@
+What will the output be from the following code?
+
+num = 4
+num*=2
+num1=num+2
+num1+=3
+print(num1)
+
+13
