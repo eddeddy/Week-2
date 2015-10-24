@@ -1,0 +1,6 @@
+Explain the mistake in the following code:
+
+radius = input("Radius:") <- this is wrong because we have to put int(input("Radius:"))
+x = 3.14
+pi = x
+area = pi * radius ** 2
