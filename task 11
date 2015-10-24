@@ -1,0 +1,13 @@
+Find two run-time errors:
+
+from math import sqrt
+
+X = 2
+
+Y = 4
+
+print(“The product of “, x, “and”, y, “is”, x + y)
+
+print(“The root of their difference is “, sqrt(abs(x – y)))
+
+First mistake is varibles X because in other place it's x , and other mistake is the product it’s x*y not x+y
