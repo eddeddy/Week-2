@@ -1,0 +1,5 @@
+Why does this code not calculate the average?
+
+print(3 + 4 + 5 / 3)
+
+Because the program do first 3+4 and after that do 5/3 for calculate the averange it must be like this: print((3+4+5)/3)
