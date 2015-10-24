@@ -1,0 +1,7 @@
+What do the following lines of code output? Why do they give a different answer?
+
+print(2 / 3) -> 0.67
+print(2 // 3) -> 0
+
+Because single / is for quotient which give float number and bouble // is for integer quotient which give integer 
+number.
