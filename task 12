@@ -1,0 +1,9 @@
+Write statements to prompt user for their name and age
+Write a print statement to output:
+
+Hello ____, next year you will be ____ years old!
+
+x=input("What it's your name ? ->")
+y=int(input("How old are you ? ->"))
+z=y+1
+print("Hello",x,", next year you will be ",z,"years old!")
