@@ -1,0 +1,5 @@
+Explain the mistake in the following code:
+
+x = 4
+y = 5
+a = 3(x + y) <- this it is wrong , the good expression is a = 3*(x+y)
