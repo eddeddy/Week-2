@@ -1,0 +1,3 @@
+Explain the mistake in the following code:
+
+radius = input(float("Enter the radius:")) <- because the float must be placed before input
