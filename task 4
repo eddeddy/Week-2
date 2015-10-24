@@ -1,0 +1,7 @@
+Which of these variables names are not allowed in Python? (More than one might be wrong.)
+
+apple APPLE Apple2 1Apple account number account_number account.number accountNumber fred Fred return return_value 
+5Return GreatBigVariable greatBigVariable great_big_variable great.big.variable 2x
+
+account number –> because because it has space between words
+return –> because it’s keyword
